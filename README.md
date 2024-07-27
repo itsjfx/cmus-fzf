@@ -1,6 +1,6 @@
 # cmus-fzf
 
-quick and dirty script to play a song from your cmus library via fzf
+quick and dirty script to play a track from your cmus library using fzf
 
 
 ## setup
