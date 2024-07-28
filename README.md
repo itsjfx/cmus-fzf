@@ -18,7 +18,7 @@ I run mine in a tmux popup when using `cmus`. [from my cmus rc](https://github.c
 * and press `S`
 
 you could also bind this globally within tmux to do this from any application, e.g. to control your music within `vim` :)
-* `bind-key S run-shell 'tmux popup -E /path/to/cmus-fzf/cmus-fzf'`
+* `bind-key S run-shell 'tmux popup -E /path/to/cmus-fzf/cmus-fzf || true'`
 
 ### any regular terminal
 
