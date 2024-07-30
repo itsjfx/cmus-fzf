@@ -9,6 +9,11 @@ quick and dirty script to play a track from your cmus library using fzf
 2. run `cmus-fzf`
 
 
+## example
+
+![cmus-fzf](https://github.com/user-attachments/assets/49529cae-098f-49e2-bb7c-3f3f73f58ca3)
+
+
 ## usage
 
 ### tmux popup
